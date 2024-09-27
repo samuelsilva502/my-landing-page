@@ -1,14 +1,14 @@
 
 # COOKBOOK API
 
-Este projeto é uma **landing page** construída com **React** utilizando o **Vite** e faz o consumo de uma API de receitas. O objetivo é exibir dados de diferentes rotas da API de forma visualmente agradável, com uso de ícones, fontes customizadas e animações.
+Este projeto é uma **landing page** construída com **React** utilizando o **Vite** e faz o consumo de uma API de receitas. O objetivo é exibir dados de diferentes rotas da API de forma visualmente agradável, fontes customizadas e animações.
 
 ## Funcionalidades
 
 - Consumo de API REST com Axios
 - Exibição de dados de receitas
 - Layout responsivo e interativo
-- Animações e ícones customizados
+- Animações 
 
 ## Tecnologias Utilizadas
 

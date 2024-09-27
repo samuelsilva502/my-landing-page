@@ -45,6 +45,7 @@ Este projeto consome uma API para exibir as receitas em diferentes seções. A A
 
 # Estrutura do projeto
 
+```css
    /src
   ├── /components
   │   ├── Header.js
@@ -54,7 +55,9 @@ Este projeto consome uma API para exibir as receitas em diferentes seções. A A
   ├── App.js
   └── index.css
 
+
 ## Links:
 Link do Projeto no GitHub
+
 Apresentação no LinkedIn
 
